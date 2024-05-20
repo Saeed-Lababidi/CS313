@@ -23,7 +23,7 @@ The dataset used in this project is the "Online Shoppers Purchasing Intention Da
 
 ## How to Run
 
-1. **Clone the Repository:**
+**1. **Clone the Repository:****
    git clone https://github.com/yourusername/online-shoppers-intention-prediction.git
    cd online-shoppers-intention-prediction
    
