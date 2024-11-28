@@ -1,4 +1,4 @@
-# CS313
+# CS313 - Data Science Project
 This is the repo for our Introduction to Data Science Course
 # Online Shoppers Purchasing Intention Prediction
 
